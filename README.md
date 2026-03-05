@@ -1,5 +1,5 @@
 # 💫 Hi Nadia here:
- I'm Computer Science student at the University of Memphis and a Vendor Risk Analyst at UMRF Ventures. I’m passionate about building secure, scalable software and solving real-world problems through technology. My experience includes developing full-stack applications using Python, Ruby on Rails, and Django, as well as reviewing security assessments and SOC 2 reports in my current role. I’m especially interested in software engineering, AI-driven systems, and cybersecurity, and I’m always looking for opportunities to grow technically while contributing to meaningful, impact-driven projects.
+ I'm Computer Science student at the University of Memphis and a Vendor Risk Analyst. I’m passionate about building secure, scalable software and solving real-world problems through technology. My experience includes developing full-stack applications using Python, Ruby on Rails, and Django, as well as reviewing security assessments and SOC 2 reports in my current role. I’m especially interested in software engineering, AI-driven systems, and cybersecurity, and I’m always looking for opportunities to grow technically while contributing to meaningful, impact-driven projects.
 
 
 ## 🌐 Socials:
